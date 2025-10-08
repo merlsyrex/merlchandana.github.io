@@ -21,6 +21,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "archive.html", sidebaricon: home}
   - {file: "README.md", sidebaricon: address-card}
   - {file: "blog.md", title: "Model Citizens", sidebaricon: blog}
+  - {file: "ai-ed.md", title: "AI in Education", sidebaricon: blog}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:author@example.com"}
