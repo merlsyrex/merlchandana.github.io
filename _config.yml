@@ -20,7 +20,7 @@ show_minimal: false             # remove all clutter
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "archive.html", sidebaricon: home}
   - {file: "README.md", sidebaricon: address-card}
-  - {file: "blog.md", title: "Model Citizens", sidebaricon: blog}
+  - {file: "blog.md", title: "How to Change the World", sidebaricon: blog}
   - {file: "ai-ed.md", title: "AI in Education", sidebaricon: blog}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
